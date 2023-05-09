@@ -2,5 +2,5 @@
 
 I'm a junior data scientist.
 
-- I'm looking for an entry-level job or internship
+- I'm looking for an entry-level ML job or internship
 - my other 2023 goal: to get into Data Science Master's Degree Program
