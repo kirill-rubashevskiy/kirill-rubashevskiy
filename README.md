@@ -1,6 +1,12 @@
-# Hi there, I'm Kirill Rubashevskiy👋
+# Привет! Меня зовут Кирилл Рубашевский👋
 
-I'm a junior data scientist.
+Я — начинающий Data Scientist.
 
-- I'm looking for an entry-level ML job or internship
-- my other 2023 goal: to get into Data Science Master's Degree Program
+Сейчас я активно учусь, участвую в хакатонах и соревнованиях и ищу ML- стажировку или джуниорскую позицию.
+
+Мой стек:
+
+- Python: `numpy`, `Matplotlib`, `pandas`, `seaborn` 
+- ML: `CatBoost`, `Jupyter Notebook`, `LightGBM`, `XGBoost` 
+- статистика и A/B-тесты: `SciPy`, `statsmodels`
+- MLOps: `Git`
