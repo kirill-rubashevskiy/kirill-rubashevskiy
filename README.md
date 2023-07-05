@@ -6,7 +6,8 @@
 
 Мой стек:
 
-- Python: `numpy`, `Matplotlib`, `pandas`, `seaborn` 
+- Python: `numpy`, `Matplotlib`, `pandas`, `seaborn`
+- SQL 
 - ML: `CatBoost`, `Jupyter Notebook`, `LightGBM`, `scikit-learn`, `XGBoost` 
 - статистика и A/B-тесты: `SciPy`, `statsmodels`
 - MLOps: `Git`
