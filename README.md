@@ -2,7 +2,7 @@
 
 Я — начинающий Data Scientist.
 
-Сейчас я активно учусь, [участвую](https://github.com/kirill-rubashevskiy/hackatons-and-competitions) в хакатонах и соревнованиях и ищу ML- стажировку или джуниорскую позицию.
+Сейчас я активно учусь, [участвую](https://github.com/kirill-rubashevskiy/hackatons-and-competitions) в хакатонах и соревнованиях и [ищу](https://github.com/kirill-rubashevskiy/cv) ML- стажировку или джуниорскую позицию.
 
 Мой стек:
 
