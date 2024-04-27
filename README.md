@@ -6,20 +6,21 @@ I'm currently pursuing a [Master's degree in Artificial Intelligence](https://ww
 at the Higher School of Economics.
 
 ## Skills
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/pandas" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/numpy" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/scipy" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/pytorch" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/apacheairflow" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mlflow" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/weightsandbiases" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" alt="C" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" alt="C" />
+<div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pandas" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/scipy" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/apacheairflow" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mlflow" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/weightsandbiases" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/docker" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" alt="C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git" alt="C" />
+</div>
 
 ## Professional Goals
 
